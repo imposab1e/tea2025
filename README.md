@@ -17,4 +17,4 @@ F.cu layer:
 
 Metal case 100x76x37:
 
-![Screenshot5](https://github.com/imposab1e/tea2025/blob/main/pic/100x76x37.bmp
+![Screenshot5](https://github.com/imposab1e/tea2025/main/pic/100x76x37.bmp
